@@ -32,7 +32,7 @@ Course Project for DATA130007 Social network mining. We analyze the network of d
 
 ## Code Reference
 
-[DGMER-----Deep Generative Model for Explainable Recommendation](https://github.com/JumingZhao/DGMEM----Deep-Generative-Model-for-Explainable-Recommendation)
+[DGMER-----Deep Generative Model for Explainable Recommendation](https://github.com/JumingZhao/DGMER----Deep-Generative-Model-for-Explainable-Recommendation)
 
 [Personalized Transformer for Explainable Recommendation](https://github.com/lileipisces/PETER)
 

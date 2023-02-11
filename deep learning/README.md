@@ -22,7 +22,7 @@
 
 **Transformer_based**: based on transformers, refering [Personalized Transformer for Explainable Recommendation](https://github.com/lileipisces/PETER)
 
-**GPT2_based**: 2 models based on GPT2, refering  [DGMER-----Deep Generative Model for Explainable Recommendation](https://github.com/JumingZhao/DGMEM----Deep-Generative-Model-for-Explainable-Recommendation)and  [Personalized Prompt Learning for Explainable Recommendation](https://github.com/lileipisces/PEPLER)
+**GPT2_based**: 2 models based on GPT2, refering  [DGMER-----Deep Generative Model for Explainable Recommendation](https://github.com/JumingZhao/DGMER----Deep-Generative-Model-for-Explainable-Recommendation)and  [Personalized Prompt Learning for Explainable Recommendation](https://github.com/lileipisces/PEPLER)
 
 **output: douban_for_*** :The file records the training process of the three models respectively
 
